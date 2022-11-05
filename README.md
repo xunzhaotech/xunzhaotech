@@ -1,4 +1,5 @@
 # 广州讯曌信息科技有新公司【讯曌科技】
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xunzhaotech)](https://github.com/xunzhaotech/github-readme-stats)
 
 ## 公司简介
 广州讯曌信息科技有限公司（简称：[讯曌科技](http://xunzhaotech.com)）是一家创新型企业，公司秉承“人无我有，人有我精”的企业理念和“精益求精，用户至上”的企业宗旨。讯曌科技为广大用户提供最实惠的硬件资源，为企业打造高品质的软件产品，真正的实现了用户“物美价廉”的购物梦，用户的信赖是我们奋斗的源泉，用户的托付是我们的责任和动力。我们始终坚持“用户至上，卓越发展”。
@@ -44,4 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xunzhaotech)](https://github.com/xunzhaotech/github-readme-stats)
+
